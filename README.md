@@ -180,21 +180,3 @@
     <td align="center"><b> • 아키텍처 설계 <br><br> React 및 Spring Boot 개발 환경 구축 <br><br> • JWT를 이용한 로그인 & 로그아웃 & 사용자 권한 관리 <br><br> • 환자 목록 페이징 <br><br> • 더미 데이터에 AI모델을 추가하는 Flask 서버 구축 <br><br> • Admin 설계 및 UI/UX 최적화 <br><br> • 시스템 자원 사용률 & DB 백업 기능 <br><br> • Docker & Jenkis & AWS를 사용해서 자동 CI/CD 및 배포 환경 구축 </b></td>
   </tr>
 </table>
-
-
-## 🤾‍♂️ 협업
-
-
-<details>
-<summary>
-### 🔨 깃허브 PR 기능<br>
-</summary>
-</details>
-
-<details>
-<summary>
-### 🔨 Swagger-UI tool 사용<br>
-</summary>
-</details>
-
-## 🤾‍♂️ 라이선스 정보
